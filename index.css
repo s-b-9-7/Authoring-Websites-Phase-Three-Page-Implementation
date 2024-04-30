@@ -1,490 +1,32 @@
-.helpingseniors-icon {
+.pic4-1-icon {
   	position: absolute;
-  	top: 0px;
-  	left: 0px;
-  	width: 527px;
-  	height: 324px;
+  	top: 3008px;
+  	left: 670px;
+  	width: 483px;
+  	height: 322px;
   	object-fit: cover;
 }
-.lifelineseniors-icon {
-  	position: absolute;
-  	top: 0px;
-  	left: 543px;
-  	width: 529px;
-  	height: 320px;
-  	object-fit: cover;
-}
-.videos {
-  	position: absolute;
-  	top: 3342px;
-  	left: 677px;
-  	width: 1072px;
-  	height: 324px;
-}
-.additional-resources {
-  	position: absolute;
-  	top: 175px;
-  	left: 783px;
-  	display: inline-block;
-  	width: 285px;
-  	height: 55px;
-}
-.services-child {
-  	position: absolute;
-  	top: 0px;
-  	left: 838px;
-  	width: 175px;
-  	height: 175px;
-  	object-fit: cover;
-}
-.shelf-stable {
-  	position: absolute;
-  	top: 181px;
-  	left: 399px;
-  	display: inline-block;
-  	width: 287px;
-}
-.services-item {
-  	position: absolute;
-  	top: 0px;
-  	left: 454px;
-  	width: 175px;
-  	height: 175px;
-  	object-fit: cover;
-}
-.pounds {
-  	position: absolute;
-  	top: 180px;
-  	left: 0px;
-  	display: inline-block;
-  	width: 302px;
-  	height: 78px;
-}
-.services-inner {
-  	position: absolute;
-  	top: 0px;
-  	left: 63px;
-  	width: 175px;
-  	height: 175px;
-  	object-fit: cover;
-}
-.services {
-  	position: absolute;
-  	top: 2990px;
-  	left: 677px;
-  	width: 1068px;
-  	height: 293px;
-  	color: #000;
-}
-.pick-up-child {
-  	position: absolute;
-  	top: 0px;
-  	left: 0px;
-  	background-color: #777;
-  	width: 933px;
-  	height: 173px;
-}
-.eastmont-community-center {
+.if-youre-interested {
   	margin: 0;
-}
-.address {
-  	position: absolute;
-  	top: 37px;
-  	left: 182px;
-  	display: inline-block;
-  	width: 346px;
-  	height: 99px;
-}
-.must-come {
-  	font-family: Montserrat;
-}
-.address1 {
-  	position: absolute;
-  	top: 37px;
-  	left: 551px;
-  	text-align: center;
-  	display: inline-block;
-  	width: 346px;
-  	height: 99px;
-}
-.map-pin-icon {
-  	position: absolute;
-  	top: 59px;
-  	left: 142px;
-  	width: 35px;
-  	height: 35px;
-  	object-fit: cover;
-}
-.pick-up {
-  	position: absolute;
-  	top: 2376px;
-  	left: 762px;
-  	width: 933px;
-  	height: 173px;
-  	text-align: left;
-}
-.pick-up-item {
-  	position: absolute;
-  	top: 1px;
-  	left: 75px;
-  	background-color: #141618;
-  	width: 933px;
-  	height: 173px;
-}
-.pick-up-inner {
-  	position: absolute;
-  	top: 0px;
-  	left: 0px;
-  	border-radius: 50%;
-  	background-color: #f4af3d;
-  	width: 175px;
-  	height: 175px;
-}
-.b {
-  	position: absolute;
-  	top: 62px;
-  	left: 75px;
-  	display: inline-block;
-  	color: #000;
-  	width: 79px;
-  	height: 68px;
-}
-.pick-up-info {
-  	position: absolute;
-  	top: 76px;
-  	left: 175px;
-  	font-size: 28px;
-  	display: inline-block;
-  	width: 725px;
-  	height: 81px;
-}
-.pick-up-title {
-  	position: absolute;
-  	top: 12px;
-  	left: 106px;
-  	font-size: 36px;
-  	display: inline-block;
-  	width: 904px;
-  	height: 27px;
-}
-.polygon-icon {
-  	position: absolute;
-  	top: 55px;
-  	left: 919px;
-  	width: 65px;
-  	height: 65px;
-}
-.pick-up1 {
-  	position: absolute;
-  	top: 2200px;
-  	left: 687px;
-  	width: 1010px;
-  	height: 175px;
-  	font-size: 45px;
-}
-.please-bring-your-own-cart {
-  	margin-bottom: 0px;
-}
-.please-bring-your-own-cart-wal {
-  	margin: 0;
-  	font-size: inherit;
-  	padding-left: 31px;
-}
-.please-bring-your-container {
-  	position: absolute;
-  	top: 18px;
-  	left: 528px;
-  	display: inline-block;
-  	width: 395px;
-  	height: 155px;
-}
-.pick-up2 {
-  	position: absolute;
-  	top: 2758px;
-  	left: 760px;
-  	width: 933px;
-  	height: 173px;
-  	text-align: left;
-}
-.pick-up3 {
-  	position: absolute;
-  	top: 2582px;
-  	left: 685px;
-  	width: 1010px;
-  	height: 175px;
-  	font-size: 45px;
-}
-.contact-person {
-  	position: absolute;
-  	top: 25px;
-  	left: 205px;
-  	display: inline-block;
-  	width: 600px;
-  	height: 27px;
 }
 .span {
-  	text-decoration: underline;
-}
-.a {
-  	color: inherit;
-}
-.contact-info {
-  	position: absolute;
-  	top: 65px;
-  	left: 180px;
-  	font-size: 23px;
-  	text-align: left;
-  	display: inline-block;
-  	width: 597px;
-  	height: 99px;
-}
-.email-icon {
-  	position: absolute;
-  	top: 117px;
-  	left: 140px;
-  	width: 35px;
-  	height: 35px;
-  	object-fit: cover;
-}
-.phone-icon {
-  	position: absolute;
-  	top: 65px;
-  	left: 142px;
-  	width: 35px;
-  	height: 35px;
-  	object-fit: cover;
-}
-.make-appointment-drop {
-  	position: absolute;
-  	top: 1994px;
-  	left: 764px;
-  	width: 933px;
-  	height: 173px;
-  	font-size: 26px;
-}
-.make-appointment {
-  	position: absolute;
-  	top: 1818px;
-  	left: 689px;
-  	width: 1010px;
-  	height: 175px;
-  	font-size: 45px;
-}
-.requirements-drop-child {
-  	position: absolute;
-  	top: 0px;
-  	left: 0px;
-  	background-color: #777;
-  	width: 933px;
-  	height: 283px;
-}
-.doc-title {
-  	position: absolute;
-  	top: 18px;
-  	left: 0px;
-  	font-size: 26px;
-  	display: inline-block;
-  	width: 933px;
-  	height: 37px;
-}
-.an-electric-or-gas-bill-3-mont {
-  	margin: 0;
-  	font-family: inherit;
-  	font-size: inherit;
-  	padding-left: 31px;
-}
-.doclist {
-  	position: absolute;
-  	top: 78px;
-  	left: 98px;
-  	text-align: left;
-  	display: inline-block;
-  	width: 833px;
-  	height: 111px;
-}
-.unhoused-individuals-are-container {
-  	position: absolute;
-  	top: 202px;
-  	left: 0px;
-  	display: inline-block;
-  	width: 931px;
-  	height: 67px;
-}
-.requirements-drop {
-  	position: absolute;
-  	top: 1502px;
-  	left: 768px;
-  	width: 933px;
-  	height: 283px;
-}
-.live-in-la-countys-1st-superv {
-  	margin: 0;
-  	font-family: inherit;
-  	font-size: inherit;
-  	padding-left: 37px;
-}
-.requirementslist {
-  	position: absolute;
-  	top: 76px;
-  	left: 175px;
-  	font-size: 28px;
-  	text-align: left;
-  	display: inline-block;
-  	width: 725px;
-  	height: 81px;
-}
-.requirements-inner {
-  	position: absolute;
-  	top: 55px;
-  	left: 915px;
-  	width: 65px;
-  	height: 65px;
-}
-.requirements {
-  	position: absolute;
-  	top: 1326px;
-  	left: 691px;
-  	width: 1010px;
-  	height: 175px;
-  	font-size: 45px;
-}
-.img-child {
-  	position: absolute;
-  	top: 0px;
-  	left: 0px;
-  	width: 250px;
-  	height: 250px;
-  	object-fit: cover;
-}
-.img-item {
-  	position: absolute;
-  	top: 0px;
-  	left: 264px;
-  	width: 250px;
-  	height: 250px;
-  	object-fit: cover;
-}
-.img-inner {
-  	position: absolute;
-  	top: 0px;
-  	left: 528px;
-  	width: 250px;
-  	height: 250px;
-  	object-fit: cover;
-}
-.rectangle-icon {
-  	position: absolute;
-  	top: 0px;
-  	left: 792px;
-  	width: 250px;
-  	height: 250px;
-  	object-fit: cover;
-}
-.img {
-  	position: absolute;
-  	top: 1000px;
-  	left: 693px;
-  	width: 1042px;
-  	height: 250px;
-}
-.b4 {
-  	position: absolute;
-  	top: 61px;
-  	left: 20px;
-  	display: inline-block;
-  	color: #f4af3d;
-  	width: 247px;
-  	height: 97px;
-}
-.households-served {
-  	position: absolute;
-  	top: 172px;
-  	left: 27px;
-  	font-size: 23px;
-  	display: inline-block;
-  	width: 234px;
-  	height: 56px;
-}
-.individuals-served {
-  	position: absolute;
-  	top: 165px;
-  	left: 347px;
-  	font-size: 23px;
-  	display: inline-block;
-  	width: 239px;
-  	height: 56px;
-}
-.b5 {
-  	position: absolute;
-  	top: 61px;
-  	left: 342px;
-  	display: inline-block;
-  	color: #f4af3d;
-  	width: 235px;
-  	height: 100px;
-}
-.b6 {
-  	position: absolute;
-  	top: 61px;
-  	left: 669px;
-  	display: inline-block;
-  	color: #f4af3d;
-  	width: 359px;
-  	height: 97px;
-}
-.lbs-of-food {
-  	position: absolute;
-  	top: 178px;
-  	left: 678px;
-  	font-size: 23px;
-  	display: inline-block;
-  	width: 340px;
-  	height: 43px;
-}
-.year-2023- {
-  	position: absolute;
-  	top: 0px;
-  	left: 0px;
-  	font-size: 40px;
-  	display: inline-block;
-  	width: 1052px;
-  	height: 50px;
-}
-.stats {
-  	position: absolute;
-  	top: 725px;
-  	left: 685px;
-  	width: 1052px;
-  	height: 228px;
-  	font-size: 80px;
-  	color: #000;
+  	font-family: 'Open Sans';
 }
 .text {
   	position: absolute;
-  	top: 539px;
-  	left: 718px;
-  	color: #000;
+  	top: 3067px;
+  	left: 1191px;
   	display: inline-block;
-  	width: 998px;
-  	height: 152px;
+  	width: 532px;
+  	font-family: 'Open Sans';
 }
-.main-heading {
+.right-menu-panel {
   	position: absolute;
-  	top: 450px;
-  	left: 1010px;
-  	font-size: 45px;
-  	font-weight: 500;
-  	color: #000;
-  	text-align: left;
-}
-.border-icon {
-  	position: absolute;
-  	height: calc(100% - 527px);
   	top: 388px;
-  	bottom: 139px;
-  	left: 629px;
-  	max-height: 100%;
-  	width: 1164px;
+  	left: 52px;
+  	width: 427px;
+  	height: 323px;
+  	object-fit: cover;
 }
 .header-background {
   	position: absolute;
@@ -494,62 +36,384 @@
   	width: 1920px;
   	height: 307px;
 }
-.header-navigation-bar {
+.pick-up-your-food-child {
+  	position: absolute;
+  	top: 226px;
+  	left: 41px;
+  	border-radius: 100px;
+  	background-color: #f4af3d;
+  	width: 1084px;
+  	height: 154px;
+}
+.its-advisable-to {
+  	font-family: Montserrat;
+}
+.cart {
+  	text-decoration: underline;
+  	font-family: Montserrat;
+}
+.its-advisable-to-bring-a-cart {
+  	margin: 0;
+  	font-size: inherit;
+  	padding-left: 33px;
+}
+.its-advisable-to-container {
+  	position: absolute;
+  	top: 247px;
+  	left: 127px;
+  	display: inline-block;
+  	width: 899px;
+  	height: 117px;
+}
+.pick-up-your-food-item {
   	position: absolute;
   	top: 0px;
-  	left: 260px;
+  	left: 0px;
+  	background-color: #000;
+  	width: 1163px;
+  	height: 194px;
+}
+.visit-us-at-701-hoefner-avenue {
+  	margin: 0;
+  	font-size: inherit;
+  	padding-left: 36px;
+}
+.visit-us-at-container {
+  	position: absolute;
+  	top: 84px;
+  	left: 92px;
+  	font-size: 27px;
+  	color: #f4af3d;
+  	display: inline-block;
+  	width: 1011px;
+  	height: 84px;
+}
+.pick-up-your {
+  	position: absolute;
+  	top: 18px;
+  	left: 0px;
+  	font-size: 40px;
+  	display: inline-block;
+  	color: #fff;
+  	text-align: center;
+  	width: 1165px;
+  	height: 58px;
+  	text-shadow: 1px 0 0 #000, 0 1px 0 #000, -1px 0 0 #000, 0 -1px 0 #000;
+}
+.pick-up-your-food {
+  	position: absolute;
+  	top: 2524px;
+  	left: 629px;
+  	width: 1165px;
+  	height: 380px;
+}
+.register-child {
+  	position: absolute;
+  	top: 196px;
+  	left: 41px;
+  	border-radius: 100px;
+  	background-color: #f4af3d;
+  	width: 1084px;
+  	height: 176px;
+}
+.you-will-fill-out-an-intake-pa {
+  	margin-bottom: 15px;
+}
+.registration-is-in-container {
+  	position: absolute;
+  	top: 220px;
+  	left: 111px;
+  	display: inline-block;
+  	width: 899px;
+  	height: 134px;
+}
+.register-item {
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	background-color: #000;
+  	width: 1163px;
+  	height: 168px;
+}
+.contact-brissa-sanchez-container {
+  	position: absolute;
+  	top: 96px;
+  	left: 92px;
+  	font-size: 27px;
+  	color: #f4af3d;
+  	display: inline-block;
+  	width: 1011px;
+  	height: 42px;
+}
+.register2 {
+  	margin: 0;
+  	font-family: inherit;
+  	font-size: inherit;
+  	padding-left: 53px;
+}
+.register1 {
+  	position: absolute;
+  	top: 19px;
+  	left: 0px;
+  	font-size: 40px;
+  	display: inline-block;
+  	color: #fff;
+  	text-align: center;
+  	width: 1165px;
+  	height: 48px;
+  	text-shadow: 1px 0 0 #000, 0 1px 0 #000, -1px 0 0 #000, 0 -1px 0 #000;
+}
+.register {
+  	position: absolute;
+  	top: 2088px;
+  	left: 629px;
+  	width: 1165px;
+  	height: 372px;
+}
+.meet-the-requirements-child {
+  	position: absolute;
+  	top: 234px;
+  	left: 41px;
+  	border-radius: 100px;
+  	background-color: #f4af3d;
+  	width: 1084px;
+  	height: 276px;
+}
+.supplemental-security-income1 {
+  	text-decoration: underline;
+}
+.proof-of-residence-container {
+  	position: absolute;
+  	top: 258px;
+  	left: 149px;
+  	display: inline-block;
+  	width: 898.9px;
+  	height: 228px;
+}
+.meet-the-requirements-item {
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	background-color: #000;
+  	width: 1163px;
+  	height: 216px;
+}
+.required-to-live-container {
+  	position: absolute;
+  	top: 82px;
+  	left: 92px;
+  	font-size: 27px;
+  	color: #f4af3d;
+  	display: inline-block;
+  	width: 1011px;
+  	height: 124px;
+}
+.meet-the-requirements-container {
+  	position: absolute;
+  	top: 16px;
+  	left: 0px;
+  	font-size: 40px;
+  	display: inline-block;
+  	color: #fff;
+  	text-align: center;
+  	width: 1165px;
+  	height: 48px;
+}
+.meet-the-requirements {
+  	position: absolute;
+  	top: 1514px;
+  	left: 629px;
+  	width: 1165px;
+  	height: 510px;
+}
+.main-heading {
+  	position: absolute;
+  	top: 1018px;
+  	left: 26px;
+  	font-weight: 500;
+  	display: inline-block;
+  	width: 1101px;
+}
+.border-icon {
+  	position: absolute;
+  	height: 100%;
+  	top: 0px;
+  	bottom: 0px;
+  	left: 0px;
+  	max-height: 100%;
+  	width: 1164px;
+}
+.b1 {
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	display: inline-block;
+  	width: 247px;
+  	height: 97px;
+  	text-shadow: 1px 0 0 rgba(255, 255, 255, 0), 0 1px 0 rgba(255, 255, 255, 0), -1px 0 0 rgba(255, 255, 255, 0), 0 -1px 0 rgba(255, 255, 255, 0);
+}
+.households-served {
+  	position: absolute;
+  	top: 111px;
+  	left: 7px;
+  	font-size: 23px;
+  	color: #000;
+  	display: inline-block;
+  	width: 234px;
+  	height: 56px;
+}
+.parent {
+  	position: absolute;
+  	top: 58px;
+  	left: 83px;
+  	width: 247px;
+  	height: 167px;
+}
+.individuals-served {
+  	position: absolute;
+  	top: 104px;
+  	left: 5px;
+  	display: inline-block;
+  	width: 239px;
+  	height: 56px;
+}
+.b2 {
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	font-size: 80px;
+  	display: inline-block;
+  	color: #f4af3d;
+  	width: 235px;
+  	height: 100px;
+  	text-shadow: 1px 0 0 rgba(255, 255, 255, 0), 0 1px 0 rgba(255, 255, 255, 0), -1px 0 0 rgba(255, 255, 255, 0), 0 -1px 0 rgba(255, 255, 255, 0);
+}
+.individuals-served-parent {
+  	position: absolute;
+  	top: 330px;
+  	left: 448px;
+  	width: 244px;
+  	height: 160px;
+  	font-size: 23px;
+  	color: #000;
+}
+.b3 {
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	display: inline-block;
+  	width: 359px;
+  	height: 97px;
+  	text-shadow: 1px 0 0 rgba(255, 255, 255, 0), 0 1px 0 rgba(255, 255, 255, 0), -1px 0 0 rgba(255, 255, 255, 0), 0 -1px 0 rgba(255, 255, 255, 0);
+}
+.lbs-of-food {
+  	position: absolute;
+  	top: 109px;
+  	left: 19px;
+  	font-size: 23px;
+  	color: #000;
+  	display: inline-block;
+  	width: 340px;
+  	height: 43px;
+}
+.group {
+  	position: absolute;
+  	top: 66px;
+  	left: 778px;
+  	width: 359px;
+  	height: 152px;
+}
+.image-5-icon {
+  	position: absolute;
+  	top: 241px;
+  	left: 760px;
+  	width: 396px;
+  	height: 249px;
+  	object-fit: cover;
+}
+.image-4-icon {
+  	position: absolute;
+  	top: 0px;
+  	left: 392px;
+  	width: 362px;
+  	height: 241px;
+  	object-fit: cover;
+}
+.image-3-icon {
+  	position: absolute;
+  	top: 241px;
+  	left: 0px;
+  	width: 391px;
+  	height: 249px;
+  	object-fit: cover;
+}
+.graph {
+  	position: absolute;
+  	top: 396px;
+  	left: 4px;
+  	width: 1156px;
+  	height: 490px;
+  	font-size: 80px;
+  	color: #f4af3d;
+}
+.text1 {
+  	position: absolute;
+  	top: 203px;
+  	left: 33px;
+  	font-size: 32px;
+  	font-family: 'Open Sans';
+  	color: #000;
+  	display: inline-block;
+  	width: 1080px;
+}
+.main-heading1 {
+  	position: absolute;
+  	top: 94px;
+  	left: 33px;
+  	font-weight: 500;
+  	display: inline-block;
+  	width: 1080px;
+  	height: 72px;
+}
+.header-navigation-bar {
+  	position: absolute;
+  	top: -388px;
+  	left: -369px;
   	width: 1371px;
   	height: 199px;
   	object-fit: cover;
 }
-.page-1920px-wide-child {
+.main-content-1377px-wide {
   	position: absolute;
-  	top: 1824px;
-  	left: 83px;
-  	width: 65px;
-  	height: 65px;
+  	height: 100%;
+  	width: 100%;
+  	top: 0%;
+  	right: 0%;
+  	bottom: 0%;
+  	left: 0%;
+  	background-color: rgba(255, 255, 255, 0);
+  	border: 1px solid #000;
+  	box-sizing: border-box;
 }
-.gray-sections-are {
+.main-content-1377px-wide-wrapper {
   	position: absolute;
-  	top: 1522px;
-  	left: 83px;
-  	font-size: 36px;
-  	font-family: Inter;
-  	color: #000;
-  	text-align: left;
-  	display: inline-block;
-  	width: 485px;
-  	height: 251px;
+  	height: 88.71%;
+  	width: 60.63%;
+  	top: 11.29%;
+  	right: 6.61%;
+  	bottom: 0%;
+  	left: 32.76%;
+  	text-align: center;
+  	font-size: 55px;
+  	color: #475349;
 }
-.triangle-represents-the {
-  	position: absolute;
-  	top: 1793px;
-  	left: 178px;
-  	font-size: 36px;
-  	font-family: Inter;
-  	color: #000;
-  	text-align: left;
-  	display: inline-block;
-  	width: 390px;
-  	height: 145px;
-}
-.right-menu-panel {
-  	position: absolute;
-  	top: 388px;
-  	left: 82px;
-  	width: 427px;
-  	height: 323px;
-  	object-fit: cover;
-}
-.page-1920px-wide {
+.pic4-1-parent {
   	width: 100%;
   	position: relative;
-  	background-color: #fff;
-  	height: 3881px;
-  	overflow: hidden;
-  	text-align: center;
-  	font-size: 23px;
-  	color: #fff;
+  	height: 3438px;
+  	text-align: left;
+  	font-size: 25px;
+  	color: #000;
   	font-family: Montserrat;
 }
 
