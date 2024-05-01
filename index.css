@@ -1,7 +1,7 @@
 .pic4-1-icon {
   	position: absolute;
-  	top: 3008px;
-  	left: 670px;
+  	top: 2620px;
+  	left: 41px;
   	width: 483px;
   	height: 322px;
   	object-fit: cover;
@@ -14,27 +14,11 @@
 }
 .text {
   	position: absolute;
-  	top: 3067px;
-  	left: 1191px;
+  	top: 2679px;
+  	left: 562px;
   	display: inline-block;
   	width: 532px;
   	font-family: 'Open Sans';
-}
-.right-menu-panel {
-  	position: absolute;
-  	top: 388px;
-  	left: 52px;
-  	width: 427px;
-  	height: 323px;
-  	object-fit: cover;
-}
-.header-background {
-  	position: absolute;
-  	top: 0px;
-  	left: 0px;
-  	background-color: #141618;
-  	width: 1920px;
-  	height: 307px;
 }
 .pick-up-your-food-child {
   	position: absolute;
@@ -102,8 +86,8 @@
 }
 .pick-up-your-food {
   	position: absolute;
-  	top: 2524px;
-  	left: 629px;
+  	top: 2136px;
+  	left: 0px;
   	width: 1165px;
   	height: 380px;
 }
@@ -165,8 +149,8 @@
 }
 .register {
   	position: absolute;
-  	top: 2088px;
-  	left: 629px;
+  	top: 1700px;
+  	left: 0px;
   	width: 1165px;
   	height: 372px;
 }
@@ -221,8 +205,8 @@
 }
 .meet-the-requirements {
   	position: absolute;
-  	top: 1514px;
-  	left: 629px;
+  	top: 1126px;
+  	left: 0px;
   	width: 1165px;
   	height: 510px;
 }
@@ -375,14 +359,6 @@
   	width: 1080px;
   	height: 72px;
 }
-.header-navigation-bar {
-  	position: absolute;
-  	top: -388px;
-  	left: -369px;
-  	width: 1371px;
-  	height: 199px;
-  	object-fit: cover;
-}
 .main-content-1377px-wide {
   	position: absolute;
   	height: 100%;
@@ -397,12 +373,12 @@
 }
 .main-content-1377px-wide-wrapper {
   	position: absolute;
-  	height: 88.71%;
-  	width: 60.63%;
-  	top: 11.29%;
-  	right: 6.61%;
+  	height: 100%;
+  	width: 99.91%;
+  	top: 0%;
+  	right: 0.09%;
   	bottom: 0%;
-  	left: 32.76%;
+  	left: 0%;
   	text-align: center;
   	font-size: 55px;
   	color: #475349;
@@ -410,7 +386,7 @@
 .pic4-1-parent {
   	width: 100%;
   	position: relative;
-  	height: 3438px;
+  	height: 3050px;
   	text-align: left;
   	font-size: 25px;
   	color: #000;
