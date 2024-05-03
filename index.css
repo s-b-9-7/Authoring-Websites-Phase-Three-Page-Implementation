@@ -1,32 +1,112 @@
 .text {
   	position: absolute;
-  	top: 162px;
-  	left: 35px;
+  	top: 116px;
+  	left: 31px;
+  	font-size: 32px;
+  	font-family: 'Open Sans';
   	display: inline-block;
   	width: 1080px;
 }
 .main-heading {
   	position: absolute;
-  	top: 46px;
-  	left: 42px;
+  	top: 0px;
+  	left: 38px;
   	font-size: 55px;
   	font-weight: 500;
-  	font-family: var(--font-montserrat);
   	color: #475349;
   	display: inline-block;
   	width: 1080px;
   	height: 72px;
 }
-.main-content-1377px-wide {
+.b {
+  	position: absolute;
+  	top: 497px;
+  	left: 83px;
+  	display: inline-block;
+  	color: #f4af3d;
+  	width: 247px;
+  	height: 97px;
+  	text-shadow: 1px 0 0 rgba(255, 255, 255, 0), 0 1px 0 rgba(255, 255, 255, 0), -1px 0 0 rgba(255, 255, 255, 0), 0 -1px 0 rgba(255, 255, 255, 0);
+}
+.individuals-served {
+  	position: absolute;
+  	top: 873px;
+  	left: 453px;
+  	font-size: 23px;
+  	display: inline-block;
+  	width: 239px;
+  	height: 56px;
+}
+.b1 {
+  	position: absolute;
+  	top: 769px;
+  	left: 448px;
+  	display: inline-block;
+  	color: #f4af3d;
+  	width: 235px;
+  	height: 100px;
+  	text-shadow: 1px 0 0 rgba(255, 255, 255, 0), 0 1px 0 rgba(255, 255, 255, 0), -1px 0 0 rgba(255, 255, 255, 0), 0 -1px 0 rgba(255, 255, 255, 0);
+}
+.b2 {
+  	position: absolute;
+  	top: 505px;
+  	left: 778px;
+  	display: inline-block;
+  	color: #f4af3d;
+  	width: 359px;
+  	height: 97px;
+  	text-shadow: 1px 0 0 rgba(255, 255, 255, 0), 0 1px 0 rgba(255, 255, 255, 0), -1px 0 0 rgba(255, 255, 255, 0), 0 -1px 0 rgba(255, 255, 255, 0);
+}
+.lbs-of-food {
+  	position: absolute;
+  	top: 614px;
+  	left: 797px;
+  	font-size: 23px;
+  	display: inline-block;
+  	width: 340px;
+  	height: 43px;
+}
+.image-5-icon {
+  	position: absolute;
+  	top: 680px;
+  	left: 760px;
+  	width: 396px;
+  	height: 249px;
+  	object-fit: cover;
+}
+.image-4-icon {
+  	position: absolute;
+  	top: 439px;
+  	left: 392px;
+  	width: 362px;
+  	height: 241px;
+  	object-fit: cover;
+}
+.image-3-icon {
+  	position: absolute;
+  	top: 680px;
+  	left: 0px;
+  	width: 391px;
+  	height: 249px;
+  	object-fit: cover;
+}
+.main-heading1 {
+  	position: absolute;
+  	top: 313px;
+  	left: 26px;
+  	font-size: 48px;
+  	font-weight: 500;
+  	color: #475349;
+  	display: inline-block;
+  	width: 1101px;
+}
+.implement-1 {
   	width: 100%;
   	position: relative;
-  	background-color: rgba(255, 255, 255, 0);
-  	border: 1px solid var(--color-black);
-  	box-sizing: border-box;
-  	height: 3050px;
+  	height: 929px;
   	text-align: center;
-  	font-size: 32px;
-  	color: var(--color-black);
-  	font-family: var(--font-open-sans);
+  	font-size: 80px;
+  	color: #000;
+  	font-family: Montserrat;
 }
 
