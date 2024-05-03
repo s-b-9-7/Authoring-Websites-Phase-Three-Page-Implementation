@@ -4,14 +4,3 @@ body {
   	line-height: normal;
 }
 
-
-:root {
-  	
-  	/* fonts */
-  	--font-montserrat: Montserrat;
-  	--font-open-sans: 'Open Sans';
-  	
-  	/* Colors */
-  	--color-black: #000;
-  	
-}
