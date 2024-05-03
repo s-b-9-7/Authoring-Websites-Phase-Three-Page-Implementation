@@ -3,3 +3,15 @@ body {
   	margin: 0;
   	line-height: normal;
 }
+
+
+:root {
+  	
+  	/* fonts */
+  	--font-montserrat: Montserrat;
+  	--font-open-sans: 'Open Sans';
+  	
+  	/* Colors */
+  	--color-black: #000;
+  	
+}
