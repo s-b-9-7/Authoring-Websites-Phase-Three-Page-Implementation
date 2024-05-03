@@ -1,6 +1,6 @@
 .pic4-1-icon {
   	position: absolute;
-  	top: 2620px;
+  	top: 2656px;
   	left: 41px;
   	width: 483px;
   	height: 322px;
@@ -14,19 +14,19 @@
 }
 .text {
   	position: absolute;
-  	top: 2679px;
+  	top: 2715px;
   	left: 562px;
+  	color: #000;
   	display: inline-block;
   	width: 532px;
   	font-family: 'Open Sans';
 }
 .pick-up-your-food-child {
   	position: absolute;
-  	top: 226px;
-  	left: 41px;
-  	border-radius: 100px;
+  	top: 194px;
+  	left: 1px;
   	background-color: #f4af3d;
-  	width: 1084px;
+  	width: 1162px;
   	height: 154px;
 }
 .its-advisable-to {
@@ -43,10 +43,10 @@
 }
 .its-advisable-to-container {
   	position: absolute;
-  	top: 247px;
-  	left: 127px;
+  	top: 215px;
+  	left: 93px;
   	display: inline-block;
-  	width: 899px;
+  	width: 964px;
   	height: 117px;
 }
 .pick-up-your-food-item {
@@ -78,7 +78,6 @@
   	left: 0px;
   	font-size: 40px;
   	display: inline-block;
-  	color: #fff;
   	text-align: center;
   	width: 1165px;
   	height: 58px;
@@ -86,18 +85,17 @@
 }
 .pick-up-your-food {
   	position: absolute;
-  	top: 2136px;
+  	top: 2172px;
   	left: 0px;
   	width: 1165px;
-  	height: 380px;
+  	height: 348px;
 }
-.register-child {
+.group-child {
   	position: absolute;
-  	top: 196px;
-  	left: 41px;
-  	border-radius: 100px;
+  	top: 0px;
+  	left: 0px;
   	background-color: #f4af3d;
-  	width: 1084px;
+  	width: 1165px;
   	height: 176px;
 }
 .you-will-fill-out-an-intake-pa {
@@ -105,13 +103,20 @@
 }
 .registration-is-in-container {
   	position: absolute;
-  	top: 220px;
-  	left: 111px;
+  	top: 24px;
+  	left: 91px;
   	display: inline-block;
   	width: 899px;
   	height: 134px;
 }
-.register-item {
+.rectangle-parent {
+  	position: absolute;
+  	top: 168px;
+  	left: 1px;
+  	width: 1165px;
+  	height: 176px;
+}
+.register-child {
   	position: absolute;
   	top: 0px;
   	left: 0px;
@@ -141,7 +146,6 @@
   	left: 0px;
   	font-size: 40px;
   	display: inline-block;
-  	color: #fff;
   	text-align: center;
   	width: 1165px;
   	height: 48px;
@@ -149,18 +153,17 @@
 }
 .register {
   	position: absolute;
-  	top: 1700px;
+  	top: 1736px;
   	left: 0px;
-  	width: 1165px;
-  	height: 372px;
+  	width: 1166px;
+  	height: 344px;
 }
 .meet-the-requirements-child {
   	position: absolute;
-  	top: 234px;
-  	left: 41px;
-  	border-radius: 100px;
+  	top: 216px;
+  	left: 0px;
   	background-color: #f4af3d;
-  	width: 1084px;
+  	width: 1163px;
   	height: 276px;
 }
 .supplemental-security-income1 {
@@ -168,8 +171,8 @@
 }
 .proof-of-residence-container {
   	position: absolute;
-  	top: 258px;
-  	left: 149px;
+  	top: 240px;
+  	left: 92px;
   	display: inline-block;
   	width: 898.9px;
   	height: 228px;
@@ -198,34 +201,58 @@
   	left: 0px;
   	font-size: 40px;
   	display: inline-block;
-  	color: #fff;
   	text-align: center;
   	width: 1165px;
   	height: 48px;
 }
 .meet-the-requirements {
   	position: absolute;
-  	top: 1126px;
+  	top: 1162px;
   	left: 0px;
   	width: 1165px;
-  	height: 510px;
+  	height: 492px;
 }
 .main-heading {
   	position: absolute;
-  	top: 1018px;
-  	left: 26px;
+  	top: 1054px;
+  	left: 34px;
+  	font-size: 55px;
   	font-weight: 500;
+  	color: #475349;
+  	text-align: center;
   	display: inline-block;
   	width: 1101px;
 }
-.border-icon {
+.text1 {
+  	position: absolute;
+  	top: 162px;
+  	left: 35px;
+  	display: inline-block;
+  	width: 1080px;
+}
+.main-heading1 {
+  	position: absolute;
+  	top: 46px;
+  	left: 42px;
+  	font-size: 55px;
+  	font-weight: 500;
+  	font-family: Montserrat;
+  	color: #475349;
+  	display: inline-block;
+  	width: 1080px;
+  	height: 72px;
+}
+.main-content-1377px-wide {
   	position: absolute;
   	height: 100%;
-  	top: 0px;
-  	bottom: 0px;
-  	left: 0px;
-  	max-height: 100%;
-  	width: 1164px;
+  	width: 100%;
+  	top: 0%;
+  	right: 0%;
+  	bottom: 0%;
+  	left: 0%;
+  	background-color: rgba(255, 255, 255, 0);
+  	border: 1px solid #000;
+  	box-sizing: border-box;
 }
 .b1 {
   	position: absolute;
@@ -248,7 +275,7 @@
 }
 .parent {
   	position: absolute;
-  	top: 58px;
+  	top: 184px;
   	left: 83px;
   	width: 247px;
   	height: 167px;
@@ -274,7 +301,7 @@
 }
 .individuals-served-parent {
   	position: absolute;
-  	top: 330px;
+  	top: 456px;
   	left: 448px;
   	width: 244px;
   	height: 160px;
@@ -302,14 +329,14 @@
 }
 .group {
   	position: absolute;
-  	top: 66px;
+  	top: 192px;
   	left: 778px;
   	width: 359px;
   	height: 152px;
 }
 .image-5-icon {
   	position: absolute;
-  	top: 241px;
+  	top: 367px;
   	left: 760px;
   	width: 396px;
   	height: 249px;
@@ -317,7 +344,7 @@
 }
 .image-4-icon {
   	position: absolute;
-  	top: 0px;
+  	top: 126px;
   	left: 392px;
   	width: 362px;
   	height: 241px;
@@ -325,41 +352,33 @@
 }
 .image-3-icon {
   	position: absolute;
-  	top: 241px;
+  	top: 367px;
   	left: 0px;
   	width: 391px;
   	height: 249px;
   	object-fit: cover;
 }
+.main-heading2 {
+  	position: absolute;
+  	top: 0px;
+  	left: 26px;
+  	font-size: 48px;
+  	font-weight: 500;
+  	color: #475349;
+  	display: inline-block;
+  	width: 1101px;
+}
 .graph {
   	position: absolute;
-  	top: 396px;
+  	top: 359px;
   	left: 4px;
   	width: 1156px;
-  	height: 490px;
+  	height: 616px;
   	font-size: 80px;
   	color: #f4af3d;
+  	font-family: Montserrat;
 }
-.text1 {
-  	position: absolute;
-  	top: 203px;
-  	left: 33px;
-  	font-size: 32px;
-  	font-family: 'Open Sans';
-  	color: #000;
-  	display: inline-block;
-  	width: 1080px;
-}
-.main-heading1 {
-  	position: absolute;
-  	top: 94px;
-  	left: 33px;
-  	font-weight: 500;
-  	display: inline-block;
-  	width: 1080px;
-  	height: 72px;
-}
-.main-content-1377px-wide {
+.main-content-1377px-wide-parent {
   	position: absolute;
   	height: 100%;
   	width: 100%;
@@ -367,21 +386,19 @@
   	right: 0%;
   	bottom: 0%;
   	left: 0%;
-  	background-color: rgba(255, 255, 255, 0);
-  	border: 1px solid #000;
-  	box-sizing: border-box;
 }
-.main-content-1377px-wide-wrapper {
+.group-wrapper {
   	position: absolute;
   	height: 100%;
-  	width: 99.91%;
+  	width: 99.83%;
   	top: 0%;
   	right: 0.09%;
   	bottom: 0%;
-  	left: 0%;
+  	left: 0.09%;
   	text-align: center;
-  	font-size: 55px;
-  	color: #475349;
+  	font-size: 32px;
+  	color: #000;
+  	font-family: 'Open Sans';
 }
 .pic4-1-parent {
   	width: 100%;
@@ -389,6 +406,7 @@
   	height: 3050px;
   	text-align: left;
   	font-size: 25px;
-  	color: #000;
+  	color: #fff;
   	font-family: Montserrat;
 }
+
